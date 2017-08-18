@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MySQLTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MySQL-Test.war">
+      <element id="artifact" artifact-name="MySQLTest:war exploded" />
+    </root>
+  </artifact>
+</component>
